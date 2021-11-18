@@ -1,2 +1,2 @@
-target
-src\main\java\com\example\FinancePage.java
+target/
+src/main/java/com/example/FinancePage.java
